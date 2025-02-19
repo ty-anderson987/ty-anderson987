@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ty-anderson987
-- 👀 I’m interested in Chess, Gaming, Clash Royale, Overwatch, Fortnite, Coding, and more.
 - 🌱 I’m currently learning CS50
 
 <!---
